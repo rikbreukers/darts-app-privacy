@@ -8,4 +8,4 @@ The app does not sell data, does not use advertising tracking, and does not shar
 
 If you have questions about this privacy policy, please contact:
 
-your-email@example.com
+rik.breukers@ziggo.nl
